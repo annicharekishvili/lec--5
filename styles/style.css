@@ -1,7 +1,16 @@
 h1 {
 	color: red;
+	font-family: "Momo Signature", cursive;
 }
 
 p {
 	color: blueviolet;
+	font-family: "Rubik 80s Fade", system-ui;
+	font-size: 40px;
+}
+
+h3 {
+	font-family: "ALKDots", sans-serif;
+	font-size: 50px;
+	color: green;
 }
